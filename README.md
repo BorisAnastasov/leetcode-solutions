@@ -28,3 +28,19 @@ This repository tracks my progression through core algorithmic patterns, competi
 │   ├── README.md
 │   └── 0001-two-sum.cpp
 └── ...
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0020-valid-parentheses) |
+<!---LeetCode Topics End-->
