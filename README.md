@@ -61,4 +61,12 @@ This repository tracks my progression through core algorithmic patterns, competi
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
