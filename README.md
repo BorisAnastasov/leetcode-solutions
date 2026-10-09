@@ -64,9 +64,14 @@ This repository tracks my progression through core algorithmic patterns, competi
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0136-single-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0136-single-number) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
