@@ -8,9 +8,14 @@ public:
         }
         int n = nums.size();
         for(int i = 0; i < n;i++){
+            bool swapped = false;
             for(int j = 0; j < n-i-1;j++){
-                if(pairs[j].first > pairs[j+1].first) swap(pairs[j], pairs[j+1]);
+                if(pairs[j].first > pairs[j+1].first){ 
+                    swap(pairs[j], pairs[j+1]);
+                    swapped = true;
+                }
             }
+            if(!swapped) break;
         }
         int left = 0;
         int right = n-1;
