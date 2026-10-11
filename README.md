@@ -64,6 +64,7 @@ This repository tracks my progression through core algorithmic patterns, competi
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0136-single-number) |
 ## Bit Manipulation
@@ -74,4 +75,8 @@ This repository tracks my progression through core algorithmic patterns, competi
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0066-plus-one) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
