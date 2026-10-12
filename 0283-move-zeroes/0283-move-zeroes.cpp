@@ -9,7 +9,6 @@ public:
                 nums[write++] = nums[read];
             }
         }
-
         while(write < nums.size()){
             nums[write++] = 0;
         }
