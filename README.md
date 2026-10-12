@@ -69,6 +69,7 @@ This repository tracks my progression through core algorithmic patterns, competi
 | [0001-two-sum](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -84,5 +85,6 @@ This repository tracks my progression through core algorithmic patterns, competi
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
