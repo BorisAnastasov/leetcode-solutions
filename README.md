@@ -74,6 +74,7 @@ This repository tracks my progression through core algorithmic patterns, competi
 | [0066-plus-one](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0136-single-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -106,7 +107,20 @@ This repository tracks my progression through core algorithmic patterns, competi
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
