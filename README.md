@@ -75,6 +75,7 @@ This repository tracks my progression through core algorithmic patterns, competi
 | [0136-single-number](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -97,9 +98,11 @@ This repository tracks my progression through core algorithmic patterns, competi
 | [0283-move-zeroes](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
