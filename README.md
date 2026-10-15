@@ -82,6 +82,7 @@ This repository tracks my progression through core algorithmic patterns, competi
 | [0283-move-zeroes](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0977-squares-of-a-sorted-array](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -98,6 +99,7 @@ This repository tracks my progression through core algorithmic patterns, competi
 | [0217-contains-duplicate](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -139,4 +141,12 @@ This repository tracks my progression through core algorithmic patterns, competi
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
