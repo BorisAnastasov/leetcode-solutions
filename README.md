@@ -55,6 +55,7 @@ This repository tracks my progression through core algorithmic patterns, competi
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0435-non-overlapping-intervals](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
 |  |
@@ -63,6 +64,7 @@ This repository tracks my progression through core algorithmic patterns, competi
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 ## Array
@@ -77,6 +79,7 @@ This repository tracks my progression through core algorithmic patterns, competi
 | [0215-kth-largest-element-in-an-array](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0977-squares-of-a-sorted-array](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
@@ -110,6 +113,7 @@ This repository tracks my progression through core algorithmic patterns, competi
 | [0215-kth-largest-element-in-an-array](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0977-squares-of-a-sorted-array](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
