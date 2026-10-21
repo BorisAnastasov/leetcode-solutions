@@ -74,6 +74,7 @@ This repository tracks my progression through core algorithmic patterns, competi
 | [0001-two-sum](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0136-single-number) |
@@ -152,6 +153,7 @@ This repository tracks my progression through core algorithmic patterns, competi
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0278-first-bad-version) |
 ## Interactive
 |  |
