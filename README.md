@@ -93,6 +93,7 @@ This repository tracks my progression through core algorithmic patterns, competi
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0069-sqrtx) |
 ## Hash Table
 |  |
 | ------- |
@@ -154,9 +155,14 @@ This repository tracks my progression through core algorithmic patterns, competi
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0278-first-bad-version) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0278-first-bad-version) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
