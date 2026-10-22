@@ -82,6 +82,7 @@ This repository tracks my progression through core algorithmic patterns, competi
 | [0217-contains-duplicate](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Bit Manipulation
@@ -157,6 +158,7 @@ This repository tracks my progression through core algorithmic patterns, competi
 | [0035-search-insert-position](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0278-first-bad-version) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Interactive
 |  |
 | ------- |
@@ -165,4 +167,8 @@ This repository tracks my progression through core algorithmic patterns, competi
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0069-sqrtx) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
