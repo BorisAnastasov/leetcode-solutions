@@ -76,6 +76,7 @@ This repository tracks my progression through core algorithmic patterns, competi
 | [0027-remove-element](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -157,6 +158,7 @@ This repository tracks my progression through core algorithmic patterns, competi
 | ------- |
 | [0035-search-insert-position](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0278-first-bad-version](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Interactive
@@ -171,4 +173,8 @@ This repository tracks my progression through core algorithmic patterns, competi
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
