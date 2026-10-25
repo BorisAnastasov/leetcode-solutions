@@ -94,6 +94,7 @@ This repository tracks my progression through core algorithmic patterns, competi
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0069-sqrtx) |
 ## Hash Table
