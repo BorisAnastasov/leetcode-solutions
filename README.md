@@ -185,5 +185,10 @@ This repository tracks my progression through core algorithmic patterns, competi
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
