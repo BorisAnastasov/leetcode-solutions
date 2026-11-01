@@ -95,6 +95,7 @@ This repository tracks my progression through core algorithmic patterns, competi
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0069-sqrtx) |
@@ -189,6 +190,7 @@ This repository tracks my progression through core algorithmic patterns, competi
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -199,6 +201,7 @@ This repository tracks my progression through core algorithmic patterns, competi
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
