@@ -102,6 +102,7 @@ This repository tracks my progression through core algorithmic patterns, competi
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0001-two-sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -112,6 +113,7 @@ This repository tracks my progression through core algorithmic patterns, competi
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0160-intersection-of-two-linked-lists](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
@@ -186,6 +188,7 @@ This repository tracks my progression through core algorithmic patterns, competi
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
