@@ -21,7 +21,7 @@ public:
 
         ListNode* chainHead = curr;
         ListNode* ptr = curr;
-        ListNode* prev = nullptr;
+        ListNode* prev = leftNode;
 
         for(int i = left;i <= right;i++){
             ListNode* temp = ptr->next;
