@@ -86,6 +86,7 @@ This repository tracks my progression through core algorithmic patterns, competi
 | [0283-move-zeroes](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Bit Manipulation
@@ -174,6 +175,7 @@ This repository tracks my progression through core algorithmic patterns, competi
 | [0162-find-peak-element](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Interactive
 |  |
 | ------- |
