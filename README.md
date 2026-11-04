@@ -41,11 +41,13 @@ This repository tracks my progression through core algorithmic patterns, competi
 | [0451-sort-characters-by-frequency](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -124,6 +126,7 @@ This repository tracks my progression through core algorithmic patterns, competi
 | [0283-move-zeroes](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -217,4 +220,8 @@ This repository tracks my progression through core algorithmic patterns, competi
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
