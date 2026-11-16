@@ -47,6 +47,7 @@ This repository tracks my progression through core algorithmic patterns, competi
 | ------- |
 | [0020-valid-parentheses](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
@@ -229,6 +230,7 @@ This repository tracks my progression through core algorithmic patterns, competi
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -242,6 +244,7 @@ This repository tracks my progression through core algorithmic patterns, competi
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -249,4 +252,5 @@ This repository tracks my progression through core algorithmic patterns, competi
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
