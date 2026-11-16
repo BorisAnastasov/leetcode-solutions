@@ -11,22 +11,18 @@
  */
 class Solution {
 public:
-    void dfs(TreeNode* node, int low, int high, set<int>& s, int& sum){
+    void dfs(TreeNode* node, int low, int high, int& sum){
         if(!node) return;
         if(node->val >= low && node->val <= high){
-            if(!s.contains(node->val)) {
-                s.insert(node->val);
-                sum+=node->val;    
-            }
+            sum+=node->val;
         }
-        dfs(node->left, low, high, s, sum);
-        dfs(node->right, low, high, s, sum);
+        dfs(node->left, low, high,sum);
+        dfs(node->right, low, high,sum);
     }
 
     int rangeSumBST(TreeNode* root, int low, int high) {
         int sum = 0;
-        set<int> s;
-        dfs(root, low, high, s, sum);
+        dfs(root, low, high, sum);
         return sum;
     }
 };
