@@ -16,8 +16,13 @@ public:
         if(node->val >= low && node->val <= high){
             sum+=node->val;
         }
-        dfs(node->left, low, high,sum);
-        dfs(node->right, low, high,sum);
+        if (node->val > low) {
+            dfs(node->left, low, high, sum);
+        }
+        
+        if (node->val < high) {
+            dfs(node->right, low, high, sum);
+        }
     }
 
     int rangeSumBST(TreeNode* root, int low, int high) {
