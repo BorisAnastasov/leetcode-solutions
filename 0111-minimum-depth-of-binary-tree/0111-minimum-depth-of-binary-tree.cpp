@@ -13,7 +13,8 @@ class Solution {
 public:
     void dfs(TreeNode* node, int& min, int curr){
         if(!node) return;
-        if(node && !node->left && !node->right){
+        if(curr >= min) return;
+        if(!node->left && !node->right){
             if(min > curr) min = curr;
             return;
         }
