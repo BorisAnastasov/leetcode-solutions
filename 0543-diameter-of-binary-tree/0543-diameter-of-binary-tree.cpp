@@ -13,13 +13,13 @@ class Solution {
 public:
     int dfs(TreeNode* node, int& maxVal){
         if(!node) return 0;
-        int leftH = dfs(node->left, maxVal);
-        int rightH = dfs(node->right, maxVal);
-        int curr = leftH + rightH;
+        int left = dfs(node->left, maxVal);
+        int right = dfs(node->right, maxVal);
+        int curr = left + right;
         if(curr > maxVal) maxVal = curr;
-
-        return 1 + max(leftH, rightH);
+        return max(left, right) + 1;
     }
+
 
     int diameterOfBinaryTree(TreeNode* root) {
         int max = 0;
