@@ -116,6 +116,7 @@ This repository tracks my progression through core algorithmic patterns, competi
 | [0217-contains-duplicate](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Two Pointers
 |  |
@@ -247,6 +248,7 @@ This repository tracks my progression through core algorithmic patterns, competi
 | [0700-search-in-a-binary-search-tree](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -275,6 +277,7 @@ This repository tracks my progression through core algorithmic patterns, competi
 | [0700-search-in-a-binary-search-tree](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -290,6 +293,7 @@ This repository tracks my progression through core algorithmic patterns, competi
 | [0538-convert-bst-to-greater-tree](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -298,18 +302,22 @@ This repository tracks my progression through core algorithmic patterns, competi
 | [0104-maximum-depth-of-binary-tree](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Lifting
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## DP on Trees
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Sliding Window
 |  |
 | ------- |
