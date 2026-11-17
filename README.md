@@ -90,6 +90,7 @@ This repository tracks my progression through core algorithmic patterns, competi
 | [0217-contains-duplicate](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0643-maximum-average-subarray-i](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -309,4 +310,8 @@ This repository tracks my progression through core algorithmic patterns, competi
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/BorisAnastasov/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
